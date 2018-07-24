@@ -121,6 +121,7 @@
         <!-- <p class="mt30"><a href="/dormyinn/information/weco/new.html"><img src="/hotels/meguro/image/img_index_14.jpg" alt=""></a></p> -->
         <div class="mt30"><a href="/dormyinn/the_tokyo_smoothie/"><img src="/hotels/meguro/image/smoothie_meguro.jpg" alt="THE TOKYO SMOOTHIE"></a></div>
         <div class="mt30"><a href="https://www.tour-list.com/TL/?hc=HN743" target="_blank"><img src="/hotels/meguro/image/banner_plain.jpg" alt="浅草・悠湯〜日帰り旅〜　Refresh Express浅草スペシャル" width="750"></a></div>
+        <p id="Area-Banner"><a href="https://renewal.hotespa.net/dormyinn/list/tokyo.html?_ga=2.132726986.512925860.1532310540-1263718199.1526370063"><img src="/hotels/image_banner/dormyinn-tokyo.jpg" alt="その他の東京エリアのドーミーインはこちら"></a></p>
         <div class="mt30"><a href="/dormyinn/information/weco/new.html"><img src="/hotels/meguro/image/img_index_07_pc.jpg" alt="連泊WECO清掃"></a></div>
         <div class="mt30"><a href="/hotels/gc_gotanda/"><img src="/hotels/meguro/image/gcgotanda_750.jpg" alt="五反田"></a></div>
     </div>
